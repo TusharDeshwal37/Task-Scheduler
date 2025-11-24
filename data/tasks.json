@@ -1,0 +1,20 @@
+{
+  "nextId" : 3,
+  "tasks" : [ {
+    "id" : 1,
+    "title" : "Programming in Java",
+    "description" : "TEE Exam",
+    "priority" : "HIGH",
+    "completed" : false,
+    "dueDate" : "2025-12-10T09:15:00",
+    "createdAt" : "2025-11-24T19:42:34.1331437"
+  }, {
+    "id" : 2,
+    "title" : "Programming in Java",
+    "description" : "Mid Term Exam",
+    "priority" : "MEDIUM",
+    "completed" : true,
+    "dueDate" : "2025-11-18T14:00:00",
+    "createdAt" : "2025-11-24T19:43:40.133233"
+  } ]
+}
